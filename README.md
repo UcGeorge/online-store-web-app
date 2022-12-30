@@ -2,6 +2,20 @@
 
 This is a small online business application that allows customers to browse and purchase products, manage their accounts, and track their orders.
 
+## Assessment Deliverables
+
+The following files contain the deliverables for this assessment:
+
+1. [Scenario Description](assessment-deliverables/scenario_description.md): A description of the scenario for our web server, including a justification for each technological feature implemented.
+
+2. [Business Justification](assessment-deliverables/business_justification.md): Business justification for each technological feature implemented in your web server.
+
+3. [Server Documentation](assessment-deliverables/server_documentation.md): Detailed documentation on the configuration and setup of our web server.
+
+4. [Configuration Files](conf/): A directory containing all of the configuration files for our web server.
+
+5. [Server Logs](logs/): A directory containing evidence from server logs and monitoring tools that our server is fully operational.
+
 ## Features
 
 - Product catalog with images and descriptions
